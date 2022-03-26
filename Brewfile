@@ -9,6 +9,7 @@ brew "git-lfs"
 brew "mas" # mac app store에 있는 앱을 설치하기 위한 brew
 brew "cask"
 brew "zsh"
+brew "neovim"
 
 # cask
 cask "figma"
